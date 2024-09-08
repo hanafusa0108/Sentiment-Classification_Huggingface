@@ -1,0 +1,5 @@
+{
+    "model_path": "/path/to/model/checkpoint",
+    "test_text_file": "/path/to/dataset/text.test.txt",
+    "output_file": "/path/to/result/test-luke.txt"
+}
