@@ -13,8 +13,10 @@
 
 - 実行手順
 1. trainのフォルダをダウンロードし、以下のように実行<br>
-   ```python luke_train.py --config_file train_config.json```
+   ```python luke_train.py --config_file train_config.json
+   ```
 
-2. testのフォルダをダウンロードし、以下のように実行<br>
-   ```python luke_test.py --config_file test_config.json```
+3. testのフォルダをダウンロードし、以下のように実行<br>
+   ```python luke_test.py --config_file test_config.json
+   ```
 
