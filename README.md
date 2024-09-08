@@ -5,7 +5,7 @@
   * 評価指標： Quadratic Weighted Kappa
 
 * データセット
-  * データセットは [wrime](https://github.com/ids-cv/wrime)
+  * データセットは [WRIME](https://github.com/ids-cv/wrime)
   * 訓練用：30,000件、検証用：1,250件、評価用：1,250件
 
 * モデル
