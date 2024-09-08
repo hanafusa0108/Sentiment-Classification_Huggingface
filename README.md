@@ -7,3 +7,6 @@
 * データセット
   * データセットは [wrime](https://github.com/ids-cv/wrime)
   * 訓練用：30,000件、検証用：1,250件、評価用：1,250件
+
+* モデル
+  * [studio-ousia/luke-japanese-large](https://huggingface.co/studio-ousia/luke-japanese-large)
