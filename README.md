@@ -10,3 +10,13 @@
 
 * モデル
   * [studio-ousia/luke-japanese-large](https://huggingface.co/studio-ousia/luke-japanese-large)
+
+- 実行手順
+1. trainのフォルダをダウンロードし、以下のように実行
+   ```python luke_train.py --config_file train_config.json
+```
+
+2. testのフォルダをダウンロードし、以下のように実行
+   ```python luke_test.py --config_file test_config.json
+```
+
