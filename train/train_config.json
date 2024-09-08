@@ -1,0 +1,13 @@
+{
+    "train_data": "/path/to/train.json",
+    "valid_data": "/path/to/valid.json",
+    "model_name": "studio-ousia/luke-japanese-large",
+    "output_dir": "/path/to/output",
+    "batch_size": 16,
+    "learning_rate": 5e-6,
+    "epochs": 15,
+    "warmup_steps": 50,
+    "gradient_accumulation_steps": 4,
+    "num_labels": 5,
+    "fp16": true
+}
